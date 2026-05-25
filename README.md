@@ -65,8 +65,6 @@ An AI-powered chatbot designed to provide supportive conversations for stress, a
 
 <img src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-101&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafter-101&theme=tokyonight" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafter-101&layout=compact&theme=tokyonight" />
 
 </p>

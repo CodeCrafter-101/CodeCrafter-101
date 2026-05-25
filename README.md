@@ -62,7 +62,13 @@ An AI-powered chatbot designed to provide supportive conversations for stress, a
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-101&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=CodeCrafter-101&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeCrafter-101&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafter-101&layout=compact&theme=tokyonight" />
+
 </p>
 
 ---
@@ -75,7 +81,7 @@ An AI-powered chatbot designed to provide supportive conversations for stress, a
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nividha-sohal-5b5a26322/)">
+<a href="https://www.linkedin.com/in/nividha-sohal-5b5a26322/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋
+# Hi there
 
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Web+Development+Enthusiast;Building+Projects+and+Learning+Daily" />
 
@@ -12,12 +12,12 @@
 
 ---
 
-# 🧠 About Me
+# About Me
 
-- 🌱 Currently learning **DSA, Backend Development, and AI**
-- 💻 Building projects using **Python, JavaScript, Flask**
-- 🤖 Interested in **AI, Chatbots, and Intelligent Systems**
-- 🚀 Improving problem-solving and development skills daily
+- Currently learning **DSA, Backend Development, and AI**
+- Building projects using **Python, JavaScript, Flask**
+- Interested in **AI, Chatbots, and Intelligent Systems**
+- Improving problem-solving and development skills daily
 
 ---
 
@@ -45,21 +45,21 @@
 
 ---
 
-# 🚀 Featured Project
+# Featured Project
 
-## 🧠 Mental Health Chatbot
+## Mental Health Chatbot
 
 An AI-powered chatbot designed to provide supportive conversations for stress, anxiety, loneliness, and overthinking.
 
 ### Features
-- 💬 Emotional support conversations
-- 🧘 Wellness guidance
-- ⚡ Interactive chatbot UI
-- 🔒 Simple and user-friendly interface
+- Emotional support conversations
+- Wellness guidance
+- Interactive chatbot UI
+- Simple and user-friendly interface
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -69,7 +69,7 @@ An AI-powered chatbot designed to provide supportive conversations for stress, a
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <p align="left">
 

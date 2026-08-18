@@ -62,9 +62,7 @@ An AI-powered chatbot designed to provide supportive conversations for stress, a
 # GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCrafter-101&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeCrafter-101&theme=tokyonight" />
 </p>
 
 ---

@@ -43,9 +43,7 @@
 
 </p>
 
-
 ---
-
 
 # Featured Project
 
